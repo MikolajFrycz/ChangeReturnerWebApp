@@ -1,0 +1,14 @@
+Repository/parametersRepo.class
+cashControllerServlet.class
+Frycz/Mikolaj/Cw4/prototyp/Exceptions/CustomException.class
+Repository/solutionRepo.class
+Frycz/Mikolaj/Cw4/prototyp/Controllers/ArgumentController.class
+Frycz/Mikolaj/Cw4/prototyp/JakartaRestConfiguration.class
+Frycz/Mikolaj/Cw4/prototyp/resources/JakartaEE10Resource.class
+Repository/historyRepo.class
+Frycz/Mikolaj/Cw4/prototyp/Views/Table/ScrollableTable.class
+historyControllerServlet.class
+Frycz/Mikolaj/Cw4/prototyp/Models/Cash.class
+Frycz/Mikolaj/Cw4/prototyp/Views/Table/ScrollableTable$MyTableModel.class
+Frycz/Mikolaj/Cw4/prototyp/Controllers/CashController.class
+Frycz/Mikolaj/Cw4/prototyp/Views/CashView.class
